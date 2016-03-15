@@ -19,7 +19,7 @@ def main():
             selector = 0
         else:
             selector += 1
-    print("D'n'C classifier: ")
+    print("Divide'n'Conquer classifier: ")
     classifier = Classifier(training_data)
     classifier.classify(data)
 

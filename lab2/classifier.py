@@ -1,7 +1,7 @@
 """
 Classifier class.
 
-Based on simple range-based recogition.
+Based on Divide'n'Conquer algorythm.
 """
 
 
